@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace safetosell\Jobs;
 
 use Illuminate\Bus\Queueable;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace safetosell\Events;
 
 abstract class Event
 {

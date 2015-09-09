@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace safetosell\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
